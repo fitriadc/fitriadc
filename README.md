@@ -1,23 +1,10 @@
 <div align = "center" >
-  <h1> Hello, it's Fitria! </h1>
+  <h1> Hello, it's Fitria!👋 </h1>
 </div>
 <br>
-Hi! My name is Fitria Dwi Cahya. Currently, I'm an Information System student at Universitas Indonesia.
+Hi! My name is Fitria Dwi Cahya. Currently, I'm an Information System student at Universitas Indonesia and an aspiring Product Designer and Web Developer.
  
-## My Progress
-Currently learning
- 
-## Favorite Languanges
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=plastic&logo=Python&logoColor=white" />
-</p>
-
-## Favorite Development Tools and Frameworks
-<p>
-  <img alt="Vscode" src="https://img.shields.io/badge/-Vscode-45b8d8?style=plastic&logo=Vscode&logoColor=white" />
-</p>
-
- ## I am into
- <p align="center">
-  <h4> Product Designer | Web Development</h4>
- </p>
+## Technologies and Tools
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=11324D)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
